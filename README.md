@@ -5,6 +5,9 @@
 ![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
+
+**Forked from original - will agree with Android licneces**
+
 # Latest Android with Node.js `v8` and npm
 ### based on [beevelop/android](https://github.com/beevelop/docker-android)
 ----
