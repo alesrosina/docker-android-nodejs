@@ -13,24 +13,20 @@
 ----
 ### Pull from Docker Hub
 ```
-docker pull beevelop/android-nodejs:latest
+docker pull alesrosina/docker-android-nodejs:latest
 ```
 
 ### Build from GitHub
 ```
-docker build -t beevelop/android-nodejs github.com/beevelop/docker-android-nodejs
+docker build -t alesrosina/docker-android-nodejs github.com/alesrosina/docker-android-nodejs
 ```
 
 ### Run image
 ```
-docker run -it beevelop/android-nodejs bash
+docker run -it alesrosina/docker-android-nodejs bash
 ```
 
 ### Use as base image
 ```Dockerfile
-FROM beevelop/android-nodejs:latest
+FROM alesrosina/docker-android-nodejs:latest
 ```
-
-----
-
-![One does not simply use latest](https://i.imgflip.com/1fgwxr.jpg)
