@@ -8,7 +8,7 @@
 
 **Forked from original - will agree with Android licneces**
 
-# Latest Android with Node.js `v14` and npm
+# Latest Android with Node.js `v12` and npm
 ### based on [beevelop/android](https://github.com/beevelop/docker-android)
 ----
 ### Pull from Docker Hub
